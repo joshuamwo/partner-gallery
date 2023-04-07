@@ -3,7 +3,6 @@ import { ThemeProvider } from '~/lib/theme'
 import '../styles/globals.css'
 import '../styles/swiper.css'
 
-]
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThemeProvider>
